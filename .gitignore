@@ -2,3 +2,7 @@
 /public/build/
 
 .DS_Store
+.history
+!tmp/routes.js
+!tmp/config.js
+**/.routify
